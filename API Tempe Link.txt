@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/forecast/daily?zip=85281&mode=json&units=imperial&cnt=7&APPID=277fca25c3b2069e379a01100289ddf5
