@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Sunshine</string>
     <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="location_setting">Change Location</string>
+    <string name="location_key">location</string>
+    <string name="measure_setting">Change Measure Type</string>
+    <string name="measure_key">measure</string>
+    <string name="location_default">85281</string>
+    <string name="measure_default">metric</string>
+    <string name="preferred_locaiton_setting">Preferred Location</string>
+    <string name="menu_share">Share</string>
 </resources>
